@@ -1,0 +1,17 @@
+
+body{
+
+    background-color: rgba(135, 175, 96, 0.233);
+}
+
+.blog{
+
+    padding: 30px;
+}
+.blog-content{
+    flex-direction: column;
+}
+.blog-1{
+
+    padding: 0;
+}
